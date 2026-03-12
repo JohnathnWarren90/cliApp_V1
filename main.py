@@ -1,5 +1,5 @@
 from model.user import User
-from logic.fileRounting import create_file, list_user_dir, create_dir, remove_dir, delete_file
+from logic.fileRouting import create_file, list_user_dir, create_dir, remove_dir, delete_file
 from utils.tools import clear_screen
 
 def main():
